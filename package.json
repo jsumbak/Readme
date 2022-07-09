@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jsumbak/Readme/issues"
   },
-  "homepage": "https://github.com/jsumbak/Readme#readme"
+  "homepage": "https://github.com/jsumbak/Readme#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
 }
